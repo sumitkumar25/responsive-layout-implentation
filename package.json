@@ -1,0 +1,27 @@
+{
+  "name": "responsive-layout-implentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/styles.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitkumar25/responsive-layout-implentation.git"
+  },
+  "keywords": [
+    "responsive",
+    "layout",
+    "float"
+  ],
+  "author": "sumitkumar25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitkumar25/responsive-layout-implentation/issues"
+  },
+  "homepage": "https://github.com/sumitkumar25/responsive-layout-implentation#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
